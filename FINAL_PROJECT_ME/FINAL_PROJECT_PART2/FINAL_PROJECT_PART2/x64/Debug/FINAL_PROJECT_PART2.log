@@ -1,0 +1,4 @@
+﻿  FINAL_PROJECT_PART2.c
+C:\Users\Eyass\Desktop\no hard drive\C Programming\FINAL_PROJECT_ME\FINAL_PROJECT_PART2\FINAL_PROJECT_PART2\FINAL_PROJECT_PART2.c(203,12): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Eyass\Desktop\no hard drive\C Programming\FINAL_PROJECT_ME\FINAL_PROJECT_PART2\FINAL_PROJECT_PART2\FINAL_PROJECT_PART2.c(488,83): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  FINAL_PROJECT_PART2.vcxproj -> C:\Users\Eyass\Desktop\no hard drive\C Programming\FINAL_PROJECT_ME\FINAL_PROJECT_PART2\x64\Debug\FINAL_PROJECT_PART2.exe

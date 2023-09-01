@@ -1,0 +1,4 @@
+﻿  FINAL_PROJECT_ME.c
+C:\Users\Eyass\Desktop\no hard drive\C Programming\FINAL_PROJECT_ME\FINAL_PROJECT_ME\FINAL_PROJECT_ME.c(164,35): warning C4133: 'function': incompatible types - from 'udtHousehold [100]' to 'const udtHousehold *'
+C:\Users\Eyass\Desktop\no hard drive\C Programming\FINAL_PROJECT_ME\FINAL_PROJECT_ME\FINAL_PROJECT_ME.c(275,47): warning C4028: formal parameter 1 different from declaration
+  FINAL_PROJECT_ME.vcxproj -> C:\Users\Eyass\Desktop\no hard drive\C Programming\FINAL_PROJECT_ME\x64\Debug\FINAL_PROJECT_ME.exe
